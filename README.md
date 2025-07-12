@@ -11,3 +11,13 @@ A simple Python script that generates secure random passwords using letters, dig
 
 ```bash
 python password_generator.py
+```
+
+## Folder Structure
+
+```bash
+Password_Generator/
+│
+├── password_generator.py  # Main script
+└── README.md              # Project description
+```
